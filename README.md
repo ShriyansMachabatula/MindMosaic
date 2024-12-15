@@ -18,4 +18,4 @@ Download Option: Save your artwork locally for safekeeping or sharing.
 MindMosaic provides a safe and engaging platform for therapeutic art practices, enabling creativity and connection in a digital space. Whether it’s for self-expression, emotional exploration, or therapeutic exercises, this tool is designed to empower users and facilitate meaningful interactions between therapists and clients.
 
 
-* WEBSITE NOT HOSTED *
+WEBSITE NOT HOSTED
